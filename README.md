@@ -1,8 +1,8 @@
 # ExpressionEvaluator
 
-Button Software Engineer Coding Challenge 2018 
-Applicant: Mariella Sypa 
-	A Java program that takes in a string expression composed of operators and numbers and does the following: 
+Button Software Engineer Coding Challenge 2018 <br />
+Applicant: Mariella Sypa <br />
+	A Java program that takes in a string expression composed of operators and numbers and does the following: <br />
 		1) converts string to char array (each element is a "token") <br />
 		2) parses through the array and pushes each token to either the stack of numbers or operators depending on what it is <br />
 		3) compares precedence of operands to handle rules of PEMDAS <br />
