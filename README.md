@@ -1,4 +1,4 @@
-# ExpressionEvaluator
+# Expression Evaluator
 
 Button Software Engineer Coding Challenge 2018 <br />
 Applicant: Mariella Sypa <br />
